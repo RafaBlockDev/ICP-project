@@ -1,4 +1,5 @@
 import { hello } from "../../declarations/hello";
+import { Rafa } from "../../js/Rafa.js";
 
 document.querySelector("form").addEventListener("submit", async (e) => {
   e.preventDefault();
